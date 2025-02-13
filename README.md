@@ -12,6 +12,6 @@ WASD to move around
 ENTER to confirm
 Q to quit the app
 
-# How to load?
+## How to load?
 
 Appload > SnakeCAD > Enter
